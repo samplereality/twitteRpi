@@ -10,10 +10,10 @@ TERMS = 'Trump'
 LED = 22
 
 # Twitter application authentication
-APP_KEY = 'USWjbzlbsUdugiG9DSIqrg'
-APP_SECRET = 'QANFbd0Hbp49Dxy9987M7phbbnuAW7nqCavcRQWU8'
-OAUTH_TOKEN = "2159821603-NDejPLqsgTcr11gzZBSseinTp0nvlyg6PCkpVub"
-OAUTH_TOKEN_SECRET = 'Fv973wO8u2q47L0nLqQ2Xqx1ttu4JOI3ZIkqWYPmzzIdh'
+APP_KEY = ''
+APP_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 # Setup callbacks from Twython Streamer
 class BlinkyStreamer(TwythonStreamer):
